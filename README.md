@@ -1,3 +1,20 @@
+## 📱 Screenshots
+
+### Bottom Navigation
+![BottomNavigation](assets/screenshots/BottomNavigation.png)
+
+### Custom Button
+![CustomButton](assets/screenshots/CustomButton.png)
+
+### Header
+![Header](assets/screenshots/Header.png)
+
+### Product Card
+![ProductCard](assets/screenshots/ProductCard.png)
+
+### Section Header
+![SectionHeader](assets/screenshots/SectionHeader.png)
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
